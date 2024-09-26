@@ -1,5 +1,5 @@
 # Netlify link
-https://remarkable-kleicha-15bcc4.netlify.app/git 
+https://remarkable-kleicha-15bcc4.netlify.app/
 
 # Getting Started with Create React App
 
